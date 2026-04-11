@@ -18,12 +18,12 @@
 
 ### 🗂️ About Me
 
-I'm a **BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET), Karachi**. I build intelligent systems and full-stack tools that tackle real-world problems.
+I'm a **BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET), Karachi** — passionate about turning data into intelligence and building AI-powered solutions that solve real problems.
 
-* 🤖 Deeply interested in **Machine Learning, Deep Learning**, and applied AI
-* 🚀 Built and deployed production-grade apps with real backends and live users
+* 🤖 Deeply interested in **Machine Learning, Deep Learning**, and building smart AI systems
 * 🌱 Currently exploring: **NLP, Computer Vision**, and AI search algorithms
-* 💬 Ask me about **Python, FastAPI, AI/ML, or competitive SQL**
+* 💻 Skilled in **Python, C++, and R** with hands-on experience in ML frameworks
+* 💬 Ask me about **Machine Learning, Data Science, or AI projects**
 * 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/hamza-asif-b84523325)**
 
 ---
