@@ -9,8 +9,8 @@
   <a href="https://github.com/hamza93-ai">
     <img src="https://img.shields.io/badge/GitHub-hamza93--ai-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:hamza93ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hamza93ai-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:hasif78693@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 
 I'm a **BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET), Karachi**. I build intelligent systems and full-stack tools that tackle real-world problems.
 
-* 🤖 Deeply interested in **Machine Learning**, **Deep Learning**, and applied AI
+* 🤖 Deeply interested in **Machine Learning, Deep Learning**, and applied AI
 * 🚀 Built and deployed production-grade apps with real backends and live users
-* 🌱 Currently exploring: **NLP**, **Computer Vision**, and AI search algorithms
+* 🌱 Currently exploring: **NLP, Computer Vision**, and AI search algorithms
 * 💬 Ask me about **Python, FastAPI, AI/ML, or competitive SQL**
 * 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/hamza-asif-b84523325)**
 
@@ -63,5 +63,4 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza93-ai" alt="hamza93-ai" />
-</p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?
