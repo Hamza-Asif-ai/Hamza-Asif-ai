@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🗂️ About Me
 
 I'm a **BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET), Karachi** — passionate about turning data into intelligence and building AI-powered solutions that solve real problems.
 
@@ -58,26 +58,14 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 
 ### 📌 Popular Repositories
 
-<p align="center">
-  <a href="https://github.com/hamza93-ai/CodeAlpha-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=CodeAlpha-&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/hamza93-ai/23-AI-93OEL2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93OEL2&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/hamza93-ai/23-AI-93OEL1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93OEL1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/hamza93-ai/23-AI-93OEL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93OEL&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/hamza93-ai/23-AI-93-AIOEL-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93-AIOEL-&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/hamza93-ai/23-AI-93OEL2PROGAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93OEL2PROGAI&theme=tokyonight" />
-  </a>
-</p>
+| Repository | Description | Language |
+|---|---|---|
+| [CodeAlpha-](https://github.com/hamza93-ai/CodeAlpha-) | 🎮 Sudoku Game | C++ |
+| [23-AI-93OEL2](https://github.com/hamza93-ai/23-AI-93OEL2) | 📊 AI/ML Lab Notebook | Jupyter Notebook |
+| [23-AI-93OEL1](https://github.com/hamza93-ai/23-AI-93OEL1) | 📊 AI/ML Lab Notebook | Jupyter Notebook |
+| [23-AI-93OEL](https://github.com/hamza93-ai/23-AI-93OEL) | 📁 AI Lab Work | — |
+| [23-AI-93-AIOEL-](https://github.com/hamza93-ai/23-AI-93-AIOEL-) | 📈 Statistical Analysis | R |
+| [23-AI-93OEL2PROGAI](https://github.com/hamza93-ai/23-AI-93OEL2PROGAI) | 🤖 Programming for AI | Jupyter Notebook |
 
 ---
 
