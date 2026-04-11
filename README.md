@@ -4,17 +4,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I'm currently working on **AI & ML Projects**
+### 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Deep Learning, NLP & LLMs**
+I'm a **BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET), Karachi**. I build intelligent systems and full-stack tools that tackle real-world problems.
 
+- 🤖 Deeply interested in **Machine Learning, Deep Learning, and applied AI**
+- 🚀 Built and deployed production-grade apps with real backends and live users
+- 🌱 Currently exploring: **NLP, Computer Vision, and AI search algorithms**
+- 💬 Ask me about **Python, FastAPI, AI/ML, or competitive SQL**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hamza-asif-b84523325)**
 - 👨‍💻 All of my projects are available at [github.com/hamza93-ai](https://github.com/hamza93-ai)
-
-- 💬 Ask me about **Python, Machine Learning, Data Science, C++**
-
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/hamza-asif-b84523325)**
-
-- ⚡ Fun fact **I also build games in C++!**
 
 <br/>
 
