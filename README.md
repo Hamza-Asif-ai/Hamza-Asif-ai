@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2852F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Hamza+Asif+%F0%9F%91%8B;BS+Artificial+Intelligence+%40+DUET+%F0%9F%8E%93;Building+Intelligence+Systems+For+Real+Problems+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%94%AC;Python+%7C+C%2B%2B+%7C+R+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Hamza Asif</h1>
 <h3 align="center">A passionate AI & Machine Learning enthusiast from Pakistan</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=575&pause=1000&color=1B4EF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Hamza+Asif+%F0%9F%91%8B;BS+Artificial+Intelligence+%40+DUET+%F0%9F%8E%93;Building+Intelligence+Systems+For+Real+Problems+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%94%AC;Python+%7C+C%2B%2B+%7C+R+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
