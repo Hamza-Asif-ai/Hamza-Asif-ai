@@ -1,4 +1,5 @@
 <p align="center"><span style="font-size:42px; font-weight:600;"
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=24&pause=1000&color=1B4EF7&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Hamza+Asif+%F0%9F%91%8B;BS+Artificial+Intelligence+%40+DUET+%F0%9F%8E%93;Building+Intelligence+Systems+For+Real+Problems+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%94%AC;Python+%7C+C%2B%2B+%7C+R+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
@@ -17,7 +18,7 @@
 
 ---
 
-### 🗂️ About Me
+### 👨‍💻 About Me
 
 I'm a **BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET), Karachi** — passionate about turning data into intelligence and building AI-powered solutions that solve real problems.
 
@@ -52,6 +53,31 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📌 Popular Repositories
+
+<p align="center">
+  <a href="https://github.com/hamza93-ai/CodeAlpha-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=CodeAlpha-&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hamza93-ai/23-AI-93OEL2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93OEL2&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hamza93-ai/23-AI-93OEL1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93OEL1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hamza93-ai/23-AI-93OEL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93OEL&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hamza93-ai/23-AI-93-AIOEL-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93-AIOEL-&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hamza93-ai/23-AI-93OEL2PROGAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza93-ai&repo=23-AI-93OEL2PROGAI&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
