@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-asif-b84523325">
-    <img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/hamza93-ai">
-    <img src="https://img.shields.io/badge/GitHub-hamza93--ai-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-hamza93--ai-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:hasif78693@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
