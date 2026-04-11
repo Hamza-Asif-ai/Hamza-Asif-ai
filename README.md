@@ -30,7 +30,7 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -66,8 +66,6 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 |---|---|---|
 | [CodeAlpha-](https://github.com/hamza93-ai/CodeAlpha-) | 🎮 Sudoku Game | C++ |
 | [23-AI-93OEL2](https://github.com/hamza93-ai/23-AI-93OEL2) | 📊 AI/ML Lab Notebook | Jupyter Notebook |
-| [23-AI-93OEL1](https://github.com/hamza93-ai/23-AI-93OEL1) | 📊 AI/ML Lab Notebook | Jupyter Notebook |
-| [23-AI-93OEL](https://github.com/hamza93-ai/23-AI-93OEL) | 📁 AI Lab Work | — |
 | [23-AI-93-AIOEL-](https://github.com/hamza93-ai/23-AI-93-AIOEL-) | 📈 Statistical Analysis | R |
 | [23-AI-93OEL2PROGAI](https://github.com/hamza93-ai/23-AI-93OEL2PROGAI) | 🤖 Programming for AI | Jupyter Notebook |
 
