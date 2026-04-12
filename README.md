@@ -38,6 +38,7 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **AI / ML / Data**
 
@@ -58,6 +59,7 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ---
 
