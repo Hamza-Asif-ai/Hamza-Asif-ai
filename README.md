@@ -18,7 +18,7 @@
 
 ---
 
-### 🗂️ About Me
+### 👨‍💻 About Me
 
 I'm a **BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET), Karachi** — passionate about turning data into intelligence and building AI-powered solutions that solve real problems.
 
