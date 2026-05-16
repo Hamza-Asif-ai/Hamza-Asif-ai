@@ -1,7 +1,7 @@
 <p align="center"><span style="font-size:42px; font-weight:600;"
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=24&pause=1000&color=1B4EF7&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Hamza+Asif+%F0%9F%91%8B;BS+Artificial+Intelligence+%40+DUET+%F0%9F%8E%93;Building+Intelligence+Systems+For+Real+Problems+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%94%AC;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=24&pause=1000&color=1B4EF7&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Hamza+Asif+%F0%9F%91%8B;BS+Artificial+Intelligence+%40+DUET+%F0%9F%8E%93;Building+Intelligence+Systems+For+Real+Problems+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%94%AC;Python+%7C+C%2B%2B+%7C+R+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack:
 
-**Languages**
+**Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -40,7 +40,7 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**AI / ML / Data**
+**AI / ML:**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -51,8 +51,9 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-**Tools & Platforms**
+**Tools & Platforms:**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -63,6 +64,8 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
