@@ -1,5 +1,3 @@
-<p align="center"><span style="font-size:42px; font-weight:600;"
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=24&pause=1000&color=1B4EF7&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Hamza+Asif+%F0%9F%91%8B;BS+Artificial+Intelligence+%40+DUET+%F0%9F%8E%93;Building+Intelligence+Systems+For+Real+Problems+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%94%AC;Python+%7C+C%2B%2B+%7C+R+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
@@ -69,22 +67,47 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 
 ---
 
-### 📌 Popular Repositories
+### 🚀 Featured Projects
 
-| Repository | Description | Language |
-|---|---|---|
-| [CodeAlpha-](https://github.com/hamza93-ai/CodeAlpha-) | 🎮 Sudoku Game | C++ |
-| [23-AI-93OEL2](https://github.com/hamza93-ai/23-AI-93OEL2) | 📊 AI/ML Lab Notebook | Jupyter Notebook |
-| [23-AI-93-AIOEL-](https://github.com/hamza93-ai/23-AI-93-AIOEL-) | 📈 Statistical Analysis | R |
-| [23-AI-93OEL2PROGAI](https://github.com/hamza93-ai/23-AI-93OEL2PROGAI) | 🤖 Programming for AI | Jupyter Notebook |
+<table>
+<tr>
+<td width="50%">
+
+**🃏 Playing Card Detection**
+Real-time object detection with **YOLOv8**, achieving **99.4% mAP50**.
+`Python` `YOLOv8` `Computer Vision`
+
+</td>
+<td width="50%">
+
+**😊 Facial Emotion Recognition**
+Custom CNN trained on **FER-2013**, ~**67.75%** validation accuracy, live webcam inference.
+`Python` `TensorFlow/Keras` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💳 Credit Card Fraud Detection**
+Compared multiple classifiers — **Logistic Regression** best at ~**94%** K-Fold accuracy.
+`Python` `scikit-learn` `Data Science`
+
+</td>
+<td width="50%">
+
+**✈️ Airline Reservation System**
+OOP-based booking system in C++ with real-time seat and boarding pass logic.
+`C++` `OOP`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/hamza93-ai">
+    <img src="https://img.shields.io/badge/See%20all%20projects-hamza93--ai-1B4EF7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamza93-ai&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamza93-ai&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza93-ai&theme=tokyonight" />
-</p>
