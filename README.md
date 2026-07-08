@@ -25,7 +25,7 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 * 🤖 Deeply interested in **Computer Vision, Machine Learning, Deep Learning, Data Science**, and building smart AI systems
 * 🌱 Currently exploring: **Agentic AI, Generative AI, LLMs, NLP**, and AI search algorithms
 * 💻 Skilled in **Python, C++, and R** with hands-on experience in ML frameworks
-* 💬 Ask me about **Machine Learning, Data Science, or AI projects**
+* 💬 Ask me about **Computer Vision, Machine Learning, Data Science, or AI projects**
 * 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/hamza-asif-b84523325)**
 
 ---
