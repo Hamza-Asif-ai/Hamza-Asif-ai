@@ -105,7 +105,7 @@ OOP-based booking system in C++ with real-time seat and boarding pass logic.
 </table>
 
 <p align="center">
-  <a href="[https://github.com/hamza93-ai](https://github.com/hamza93-ai?tab=repositories)">
+  <a href="https://github.com/hamza93-ai">
     <img src="https://img.shields.io/badge/See%20all%20projects-hamza93--ai-1B4EF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
