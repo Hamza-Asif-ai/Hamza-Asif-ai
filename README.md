@@ -114,7 +114,7 @@ OOP-based booking system in C++ with real-time seat and boarding pass logic.
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=hamza93-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=hamza93-ai&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=hamza93-ai&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
@@ -122,5 +122,5 @@ OOP-based booking system in C++ with real-time seat and boarding pass logic.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamza93-ai&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=hamza93-ai&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
