@@ -28,7 +28,7 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack
 
 **Languages:**
 
