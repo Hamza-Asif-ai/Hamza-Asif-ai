@@ -107,22 +107,7 @@ OOP-based booking system in C++ with real-time seat and boarding pass logic.
 </table>
 
 <p align="center">
-  <a href="https://github.com/hamza93-ai">
+  <a href="https://github.com/hamza93-ai?tab=repositories">
     <img src="https://img.shields.io/badge/See%20all%20projects-hamza93--ai-1B4EF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hamza93-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamza93-ai&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza93-ai&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=hamza93-ai&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
