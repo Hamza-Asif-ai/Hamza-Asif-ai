@@ -23,7 +23,7 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 * 🤖 Deeply interested in **Computer Vision, Machine Learning, Deep Learning, Data Science**, and building smart AI systems
 * 🌱 Currently exploring: **Agentic AI, Generative AI, LLMs, NLP**, and AI search algorithms
 * 💻 Skilled in **Python, C++, and R** with hands-on experience in ML frameworks
-* 💬 Ask me about **Computer Vision, Machine Learning, Data Science, or AI projects**
+* 💬 Ask me about **Machine Learning, Data Science, or AI projects**
 * 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/hamza-asif-b84523325)**
 
 ---
@@ -111,3 +111,16 @@ OOP-based booking system in C++ with real-time seat and boarding pass logic.
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=hamza93-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamza93-ai&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza93-ai&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=hamza93-ai&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
