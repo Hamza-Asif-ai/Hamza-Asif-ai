@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamza-asif-b84523325">
-    <img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 6px;" />
+  <a href="https://www.linkedin.com/in/hamzaasif-ai/">
+    <img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 12px;" />
   </a>
-  <a href="https://github.com/hamza93-ai">
-    <img src="https://img.shields.io/badge/GitHub-hamza93--ai-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 6px;" />
+  <a href="https://github.com/Hamza-Asif-ai">
+    <img src="https://img.shields.io/badge/GitHub-hamza93--ai-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 12px;" />
   </a>
   <a href="mailto:hasif78693@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 6px;" />
+    <img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 12px;" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 * 🌱 Currently exploring: **Agentic AI, Generative AI, LLMs, NLP**, and AI search algorithms
 * 💻 Skilled in **Python, C++** with hands-on experience in ML frameworks
 * 💬 Ask me about **Machine Learning, Data Science, or AI projects**
-* 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/hamza-asif-b84523325)**
+* 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/hamzaasif-ai/)**
 
 ---
 
