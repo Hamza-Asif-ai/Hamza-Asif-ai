@@ -112,7 +112,6 @@ OOP-based booking system in C++ with real-time seat and boarding pass logic.
 
 ---
 
-### © 2026 Hamza Asif. All Rights Reserved.
+### © 2026 Hamza Asif — All Rights Reserved
 
-This profile README and its original content are my intellectual property.
-Unauthorized copying, reproduction, modification, or redistribution is not permitted without prior permission.
+This profile README and its original content are my intellectual property. Unauthorized copying, reproduction, modification, or redistribution is not permitted without prior permission.
