@@ -2,17 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=24&pause=1000&color=1B4EF7&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Hamza+Asif+%F0%9F%91%8B%F0%9F%8F%BB;BS+Artificial+Intelligence+%40+DUET+%F0%9F%8E%93;Building+Intelligence+Systems+for+Real+Problems+%F0%9F%9A%80;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Always+Learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamzaasif-ai/">
-    <img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 20px;" />
-  </a>
-  <a href="https://www.kaggle.com/hamzaasif93">
-    <img src="https://img.shields.io/badge/Kaggle-hamzaasif93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="margin: 0 20px;" />
-  </a>
-  <a href="mailto:hasif78693@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 20px;" />
-  </a>
-</p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/hamzaasif-ai/"><img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td width="20"></td>
+    <td><a href="https://www.kaggle.com/hamzaasif93"><img src="https://img.shields.io/badge/Kaggle-hamzaasif93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a></td>
+    <td width="20"></td>
+    <td><a href="mailto:hasif78693@gmail.com"><img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+  </tr>
+</table>
 
 ---
 
