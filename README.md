@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/hamzaasif-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 20px;" />
   </a>
-  <a href="https://github.com/Hamza-Asif-ai">
-    <img src="https://img.shields.io/badge/GitHub-Hamza--Asif--ai-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 20px;" />
+  <a href="https://www.kaggle.com/hamzaasif93">
+    <img src="https://img.shields.io/badge/Kaggle-hamzaasif93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="margin: 0 20px;" />
   </a>
   <a href="mailto:hasif78693@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 20px;" />
@@ -64,51 +64,6 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🃏 Playing Card Detection**
-Real-time object detection with **YOLOv8**, achieving **99.4% mAP50**.
-`Python` `YOLOv8` `Computer Vision`
-
-</td>
-<td width="50%">
-
-**😊 Facial Emotion Recognition**
-Custom CNN trained on **FER-2013**, ~**67.75%** validation accuracy, live webcam inference.
-`Python` `TensorFlow/Keras` `OpenCV`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**💳 Credit Card Fraud Detection**
-Compared multiple classifiers — **Logistic Regression** best at ~**94%** K-Fold accuracy.
-`Python` `scikit-learn` `Data Science`
-
-</td>
-<td width="50%">
-
-**✈️ Airline Reservation System**
-OOP-based booking system in C++ with real-time seat and boarding pass logic.
-`C++` `OOP`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Hamza-Asif-ai?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%20projects-Hamza--Asif--ai%20%28Repo%27s%29-1B4EF7?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
