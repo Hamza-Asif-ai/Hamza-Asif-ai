@@ -67,6 +67,8 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
 
+---
+
 <p align="center">
   <a href="https://github.com/Hamza-Asif-ai?tab=repositories">
     <img src="https://img.shields.io/badge/See%20all%20projects-Hamza--Asif--ai%20%28Repo%27s%29-1B4EF7?style=for-the-badge&logo=github&logoColor=white" />
