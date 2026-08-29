@@ -44,10 +44,14 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
+![DeepSORT](https://img.shields.io/badge/Tracking-DeepSORT-purple)
+![Groq](https://img.shields.io/badge/LLM-Groq-teal)
 
 **Tools & Platforms:**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
