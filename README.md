@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamzaasif-ai/"><img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/hamzaasif93"><img src="https://img.shields.io/badge/Kaggle-hamzaasif93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:hasif78693@gmail.com"><img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hamzaasif-ai/"><img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a> <a href="https://www.kaggle.com/hamzaasif93"><img src="https://img.shields.io/badge/Kaggle-hamzaasif93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35" /></a> <a href="mailto:hasif78693@gmail.com"><img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
 </p>
 
 ---
@@ -105,6 +105,8 @@ Compared multiple classifiers — **Logistic Regression** best at ~**94%** K-Fol
 </td>
 </tr>
 </table>
+
+---
 
 <p align="center">
   <a href="https://github.com/Hamza-Asif-ai?tab=repositories">
