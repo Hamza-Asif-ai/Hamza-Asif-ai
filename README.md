@@ -69,6 +69,45 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🚦 TrafficIQ Chat**
+Real-time vehicle counting, speed estimation & conversational traffic analytics using **YOLOv8 + DeepSORT**, with an LLM chatbot on top.
+`Python` `YOLOv8` `DeepSORT` `Streamlit` `Groq`
+
+</td>
+<td width="50%">
+
+**🃏 Playing Card Detection**
+Real-time object detection with **YOLOv8**, achieving **99.4% mAP50**.
+`Python` `YOLOv8` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**😊 Facial Emotion Recognition**
+Custom CNN trained on **FER-2013**, ~**67.75%** validation accuracy, live webcam inference.
+`Python` `TensorFlow/Keras` `OpenCV`
+
+</td>
+<td width="50%">
+
+**💳 Credit Card Fraud Detection**
+Compared multiple classifiers — **Logistic Regression** best at ~**94%** K-Fold accuracy.
+`Python` `scikit-learn` `Data Science`
+
+</td>
+</tr>
+</table>
+
+---
+
 <p align="center">
   <a href="https://github.com/Hamza-Asif-ai?tab=repositories">
     <img src="https://img.shields.io/badge/See%20all%20projects-Hamza--Asif--ai%20%28Repo%27s%29-1B4EF7?style=for-the-badge&logo=github&logoColor=white" />
