@@ -106,8 +106,6 @@ Compared multiple classifiers — **Logistic Regression** best at ~**94%** K-Fol
 </tr>
 </table>
 
----
-
 <p align="center">
   <a href="https://github.com/Hamza-Asif-ai?tab=repositories">
     <img src="https://img.shields.io/badge/See%20all%20projects-Hamza--Asif--ai%20%28Repo%27s%29-1B4EF7?style=for-the-badge&logo=github&logoColor=white" />
