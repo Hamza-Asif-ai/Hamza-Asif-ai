@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamzaasif-ai/"><img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 20px;" /></a><a href="https://www.kaggle.com/hamzaasif93"><img src="https://img.shields.io/badge/Kaggle-hamzaasif93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="margin: 0 20px;" /></a><a href="mailto:hasif78693@gmail.com"><img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 20px;" /></a>
+  <a href="https://www.linkedin.com/in/hamzaasif-ai/"><img src="https://img.shields.io/badge/LinkedIn-hamza--asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/hamzaasif93"><img src="https://img.shields.io/badge/Kaggle-hamzaasif93-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:hasif78693@gmail.com"><img src="https://img.shields.io/badge/Gmail-hasif78693-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
